@@ -1,0 +1,21 @@
+/*
+ *Name: Juan Lopez Mateo
+ *UnityID: jglopezm
+ *Date: 4/15/19
+ *Assignment: Website Design and Styling Independent Assignment
+ *Description: In this assignment I will make a website in accordance to the worksheet.
+ */
+ 
+* {
+    background-color: #008080;
+}
+
+.table {
+    border: 1px solid #000000;
+}
+
+#me {
+    border: 2px outset #008000;
+    max-width: 200px;
+    max-height: 250px;
+}
